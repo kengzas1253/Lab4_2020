@@ -1,7 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+# Lab 4 Homwork
+<br/> Use component props state even axios
+<br/>Link
+https://kengzas1253.github.io/Lab4_2020/?fbclid=IwAR3GZSyCzktOfBF6C6awtf-JXAMWuj5ISEaD41x2e70VecSMwiOQFvA7lOM
+<br/>
 In the project directory, you can run:
 
 ### `npm start`
