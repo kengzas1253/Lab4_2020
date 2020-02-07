@@ -59,9 +59,10 @@ const Mybody =(props)=>{
           <img src="https://pngimg.com/uploads/like/like_PNG54.png" alt="Like"  width="20" height="20"></img>Like
         </button>
         <span className="c1">
-        <div class="fb-share-button" data-href="https://review-d3cc9.firebaseapp.com/?fbclid=IwAR39-QwVUz_QuqA03j0satJ7VDUexuLraCNjrr66E_amN5q9uBqucD_Mvjg" 
-        data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Freview-d3cc9.firebaseapp.com%2F%3Ffbclid%3DIwAR39-QwVUz_QuqA03j0satJ7VDUexuLraCNjrr66E_amN5q9uBqucD_Mvjg&amp;src=sdkpreparse" 
-        class="fb-xfbml-parse-ignore">share</a></div>
+
+        <div class="fb-share-button" data-href="https://kengzas1253.github.io/Lab4_2020/" data-layout="button" data-size="large"><a target="_blank"
+         href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkengzas1253.github.io%2FLab4_2020%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">แชร์</a></div>
+
         </span>
         <p>Name github is {props.sent_name}</p>
         <button onClick={props.sent_changeN}>Show name</button>
